@@ -39,23 +39,23 @@ pip3 install aiomysql
 ##3 step3 创建项目目录
 随后根据原文的要求建立文档，我这里略微有点不太一样，寻找一个根目录建立如下的文件夹，剩下的文件或文件夹可以根据自己的需求增加
 我只创建了我打星号的那一部分
-> awesome-python3-webapp/  <-- 根目录*
-> |
-> +- backup/               <-- 备份目录*
-> |
-> +- conf/                 <-- 配置文件*
-> |
-> +- dist/                 <-- 打包目录*
-> |
-> +- www/                  <-- Web目录，存放.py文件*
-> |  |
-> |  +- static/            <-- 存放静态文件*
-> |  |
-> |  +- templates/         <-- 存放模板文件*
-> |
-> +- ios/                  <-- 存放iOS App工程
-> |
-> +- LICENSE               <-- 代码LICENSE
+awesome-python3-webapp/  <-- 根目录*
+|
++- backup/               <-- 备份目录*
+|
++- conf/                 <-- 配置文件*
+|
++- dist/                 <-- 打包目录*
+|
++- www/                  <-- Web目录，存放.py文件*
+|  |
+|  +- static/            <-- 存放静态文件*
+|  |
+|  +- templates/         <-- 存放模板文件*
+|
++- ios/                  <-- 存放iOS App工程
+|
++- LICENSE               <-- 代码LICENSE
 
 ##4 step4 使用Git
 随后，这就是使用Git自己备份下了，没太多好说的
